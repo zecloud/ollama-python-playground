@@ -1,1 +1,7 @@
 openai
+chainlit
+duckduckgo-search 
+langchain-openai
+langchain-community
+smolagents
+
